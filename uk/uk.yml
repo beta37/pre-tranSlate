@@ -84,7 +84,7 @@ uk:
       tabs: ""
     my_echo:
       tabs:
-        welcome: Welcome
+        welcome: Прошу
         profile: My Profile
         settings: Settings
       profile_complete: '{{complete}}% complete'
@@ -185,7 +185,7 @@ uk:
         <strong>translating statements</strong> between languages you speak <strong>at least intermediate level</strong>.
         This is to ensure good content quality.<br/>
         Please don't forget to also set your <strong>mother language</strong>.
-      language: Language
+      language: Мова
       level: Level
       error_messages:
         repeated_instance: This language is already defined.
@@ -284,7 +284,7 @@ uk:
         linkedin: LinkedIn
         google: Google
       connect:
-        title: Connect
+        title: Підключення
         success: Your {{account}} account has been connected successfully.
         failed: Failed to connect to your {{account}} account.
       disconnect:
@@ -536,7 +536,7 @@ uk:
           published: 'Publish immediately (further editing will be limited)'
         published: Released
         approved: Approved
-      delete_link: 'Delete'
+      delete_link: 'Видалити'
       delete_confirmation: 'Are you sure you want to delete this statement?'
       read_only_permission: |-
         This is a transparent but currently closed discussion, you are only allowed to read.
@@ -637,7 +637,7 @@ uk:
       description: 'Complete your profile to present yourself in the echo community.'
     placeholder: 'Topic, place, organization or name of interest'
     segments:
-      all: 'All'
+      all: 'Всі'
       affection: 'Impacted'
       engagement: 'Engaged'
       expertise: 'Experts'
@@ -749,8 +749,8 @@ uk:
         body: "Please correct the following:"
     attributes:
       profile:
-        email: E-Mail
-        full_name: Name
+        email: Електронна пошта
+        full_name: Ім'я
         gender: Gender
         city: City
         country: Country
@@ -768,8 +768,8 @@ uk:
       statement_node:
         image: 'Image file'
       statement_document:
-        language_id: 'Language'
-        language: 'Language'
+        language_id: 'Мова'
+        language: 'Мова'
         title: 'Title'
         text: 'Summary'
         image: 'Illustration'
@@ -779,7 +779,7 @@ uk:
         info_url: 'Background Info Link'
       about_item:
         photo: 'Photo'
-        name: 'Name'
+        name: 'Ім''я'
         responsibility: 'Responsibility'
         description: 'Description'
         about_category_id: 'About Item'
@@ -800,7 +800,7 @@ uk:
       must_be_logged_out: "Please log out to perform this action."
     attributes:
       user_session:
-        email: E-Mail
+        email: Електронна пошта
         password: Password
   date:
     formats:
